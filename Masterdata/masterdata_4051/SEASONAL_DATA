@@ -2155,7 +2155,7 @@
                 "FirstEncounterString": "event_firstencounter_description_generic"
             },
             "Mechanics": {
-                "SequentialRewards": "wickedtides_part3_2022",
+                "SequentialRewards": "funtimetest_2024",
                 "EventCrates": "No",
                 "StoreSkin": "ui/icons/shopuiwickedtides2021",
                 "StoreId": "Default",
