@@ -2153,6 +2153,8 @@
                 "DescriptionRef": "mod_category_desc_Battery",
                 "FirstEncounterBG": "firstencounter_wickedtides_2021",
                 "FirstEncounterString": "event_firstencounter_description_generic"
+                "EventCurrencyString": "event_currency_generic",
+                "EventCurrencyAsset": "alpine_ui_eventcurrency_winterwonderland2020psd"
             },
             "Mechanics": {
                 "SequentialRewards": "funtimetest_2024",
