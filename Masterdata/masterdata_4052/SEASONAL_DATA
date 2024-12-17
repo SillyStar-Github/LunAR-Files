@@ -2144,7 +2144,7 @@
         {
             "Logical": "FUNTIMETEST_2024",
             "StartTime": "2024-12-15T00:00:01.000Z",
-            "EndTime": "2024-12-17T23:59:59.000Z",
+            "EndTime": "2024-12-23T23:59:59.000Z",
             "DailyChallengeBonusTime": 60,
             "DisplayData": {
                 "AssetBundle": "effects/wickedtides2021/sequentialrewards",
